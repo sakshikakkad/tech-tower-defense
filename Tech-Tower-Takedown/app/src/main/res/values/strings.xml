@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoTest</string>
+    <string name="ButtonText">Move to Screen 2</string>
+    <string name="ButtonText2">Move to Screen 1</string>
+    <string name="ButtonExit">Exit</string>
+    <string name="ButtonNext">Next Round</string>
+</resources>
