@@ -2,8 +2,7 @@
 
 Very cool much awesome game originally made for CS 2340 (Objects and Design) at Georgia Tech.
 
-Click here for a demo! (https://www.youtube.com/watch?v=0eAHvziIC8Y&ab_channel=GraceChun)  
-(Video credits to Grace Chun)
+[Demo video :upside_down_face:](https://www.youtube.com/watch?v=0eAHvziIC8Y&ab_channel=GraceChun)
 
 OG Contributors:  
 -Grace Chun  
